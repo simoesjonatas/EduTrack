@@ -1,0 +1,16 @@
+.chart-container {
+    background-color: #ffffff; 
+    border: 1px solid #dddddd; 
+    border-radius: 8px; 
+    padding: 16px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    min-height: 300px; 
+    margin: 20px 0; 
+}
+
+.chart-container h1 {
+    font-size: 24px; 
+    margin-bottom: 16px; 
+    color: #333333; 
+}
+

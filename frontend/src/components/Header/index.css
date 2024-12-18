@@ -1,0 +1,10 @@
+header {
+    height: 100px;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: #716b8f; /* Cor de fundo opcional */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
